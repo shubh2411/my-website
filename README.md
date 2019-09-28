@@ -11,5 +11,5 @@ This is was edited locally.
 
 ## Purpose 
 
-This is a just a readme file to find error.
-
+The purpose if this file is to provide examples
+on how to use git and github together.
